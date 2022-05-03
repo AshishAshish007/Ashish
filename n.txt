@@ -1,0 +1,4 @@
+"ip": " Ashish_7.aternos.me:46808",
+"port": "46808",
+"name": "afkbot1",
+"auto-night-skip" : "true"
